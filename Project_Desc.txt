@@ -1,0 +1,10 @@
+Tibbit — University Marketplace Platform
+Tibbit is a secure, student-exclusive digital marketplace designed to facilitate buying, selling, and exchanging goods and services within a university ecosystem. By verifying users through student ID and limiting geographic reach, it creates a trusted and hyperlocal environment for peer-to-peer transactions.
+
+1. Implement JWT-based authentication tied to student ID verification to restrict access to university students only.
+2. Set up a PostgreSQL database to manage users, product listings, conversations, and metadata.
+3. Build a RESTful API backend to handle user registration, product uploads, search, and messaging.
+4. Develop a modern React frontend with dynamic listing views, search filters, and category navigation.
+5. Add a private messaging feature so users can chat and negotiate securely within the platform.
+6. By default, show results of colleges within a 1 hour travel radius of the university
+7. Ensure scalability and security for future expansion to other institutions.
